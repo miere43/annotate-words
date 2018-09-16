@@ -1,0 +1,1 @@
+An application to annotate words in a file with data contained in Anki collection. Currenly supports only one type of annotations, where annotation comes from field of Anki model (note).
